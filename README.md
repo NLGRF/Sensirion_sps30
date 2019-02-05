@@ -10,8 +10,8 @@
 ## Getting Started
      SPS30 --> Node32 Lite
      VDD   --> 5V
-     RX    --> TX
-     TX    --> RX
+     SDA   --> IO21
+     SCL   --> IO22
      SEL   --> GND
      GND   --> GND
 
